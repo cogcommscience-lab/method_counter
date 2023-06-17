@@ -9,3 +9,7 @@ This code reads in research pdfs, does a dictionary based word-count of methodol
 - There is one research article per pdf
 - The first four characters of the pdf file name encode the publication year
 - pdfs are grouped by journal, and stored in a journal specific directory
+
+## Show me an example
+
+![Plot showing results of different methods discussed in three academic journals](https://github.com/cogcommscience-lab/method_counter/blob/main/combined_plot.jpg?raw=true)
